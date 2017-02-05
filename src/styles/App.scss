@@ -1,0 +1,21 @@
+/* Base Application Styles */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+
+body {
+  color: #333;
+  background: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.index img {
+  margin: 40px auto;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+.container {
+  padding: 15px;
+  max-width: 1170px;
+  margin:0 auto;
+}
